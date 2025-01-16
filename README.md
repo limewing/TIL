@@ -14,3 +14,9 @@ c에서 printf()에서 정수형 변수를 같이 출력하기위해 "%d" 를 �
 # 2025.01.15 TIL
 
 public과 private, SetActive
+
+# 2025.01.16 TIL
+
+animation이 작동할 시간을 위해 Invoke로 delay걸기
+PlayerPrefs를 이용해 최고기록 저장해두기
+bool
