@@ -20,3 +20,6 @@ public과 private, SetActive
 animation이 작동할 시간을 위해 Invoke로 delay걸기
 PlayerPrefs를 이용해 최고기록 저장해두기
 bool
+
+# 2025.01.17
+중력을 없애기 위해 rigidbody에서 body type를 dynamic이 아닌 kinematic을 썻을 경우 collider에서 is trigger를 켜줘야 하며 oncollision 대신 ontrigger를 사용함
